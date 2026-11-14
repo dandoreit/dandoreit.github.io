@@ -1,2 +1,2 @@
-# dannydore.github.io
+# dandoreit.github.io
 Personal website
